@@ -1,44 +1,38 @@
 #EXTM3U
-#PLAYLIST: WILL SPORTS CLEAN FINAL
+#PLAYLIST: WILL IPTV CLEAN FINAL - RXV7GUSTA22
 
 ########################
 # ESPORTES | SD
 ########################
-#EXTINF:-1 tvg-name="ESPN" group-title="Esportes | SD",ESPN
-http://listaccess.me:8880/live/Caroline01/Caroline01/2303.ts
+#EXTINF:-1 tvg-name="Canal SD 1" group-title="Esportes | SD",Canal SD 1
+http://tvhomesmart.xyz:8080/get.php?username=993492457tv&password=u65r9u&type=m3u
 
-#EXTINF:-1 tvg-name="SporTV" group-title="Esportes | SD",SporTV
-http://listaccess.me:8880/live/Caroline01/Caroline01/2188.ts
-
+#EXTINF:-1 tvg-name="Canal SD 2" group-title="Esportes | SD",Canal SD 2
+http://tvhomesmart.xyz:8080/get.php?username=993492457tv&password=u65r9u&type=m3u
 
 ########################
 # ESPORTES | HD
 ########################
-#EXTINF:-1 tvg-name="ESPN HD" group-title="Esportes | HD",ESPN HD
-http://listaccess.me:8880/live/Caroline01/Caroline01/2302.ts
+#EXTINF:-1 tvg-name="Canal HD 1" group-title="Esportes | HD",Canal HD 1
+http://tvhomesmart.xyz:8080/get.php?username=993492457tv&password=u65r9u&type=m3u
 
-#EXTINF:-1 tvg-name="ESPN Brasil HD" group-title="Esportes | HD",ESPN Brasil HD
-http://listaccess.me:8880/live/Caroline01/Caroline01/2300.ts
-
-#EXTINF:-1 tvg-name="SporTV 2 HD" group-title="Esportes | HD",SporTV 2 HD
-http://listaccess.me:8880/live/Caroline01/Caroline01/2187.ts
-
+#EXTINF:-1 tvg-name="Canal HD 2" group-title="Esportes | HD",Canal HD 2
+http://tvhomesmart.xyz:8080/get.php?username=993492457tv&password=u65r9u&type=m3u
 
 ########################
 # ESPORTES | FHD
 ########################
-#EXTINF:-1 tvg-name="ESPN FHD" group-title="Esportes | FHD",ESPN FHD
-http://listaccess.me:8880/live/Caroline01/Caroline01/7160.ts
+#EXTINF:-1 tvg-name="Canal FHD 1" group-title="Esportes | FHD",Canal FHD 1
+http://tvhomesmart.xyz:8080/get.php?username=993492457tv&password=u65r9u&type=m3u
 
-#EXTINF:-1 tvg-name="Sportv FHD" group-title="Esportes | FHD",Sportv FHD
-http://listaccess.me:8880/live/Caroline01/Caroline01/7178.ts
-
+#EXTINF:-1 tvg-name="Canal FHD 2" group-title="Esportes | FHD",Canal FHD 2
+http://tvhomesmart.xyz:8080/get.php?username=993492457tv&password=u65r9u&type=m3u
 
 ########################
 # FILMES E SÉRIES | HD
 ########################
-#EXTINF:-1 tvg-name="Space HD" group-title="Filmes e Séries | HD",Space HD
-http://listaccess.me:8880/live/Caroline01/Caroline01/2192.ts
+#EXTINF:-1 tvg-name="Canal Filmes HD 1" group-title="Filmes e Séries | HD",Canal Filmes HD 1
+http://tvhomesmart.xyz:8080/get.php?username=993492457tv&password=u65r9u&type=m3u
 
-#EXTINF:-1 tvg-name="Fox Premium 1 HD" group-title="Filmes e Séries | HD",Fox Premium 1 HD
-http://listaccess.me:8880/live/Caroline01/Caroline01/2288.ts
+#EXTINF:-1 tvg-name="Canal Filmes HD 2" group-title="Filmes e Séries | HD",Canal Filmes HD 2
+http://tvhomesmart.xyz:8080/get.php?username=993492457tv&password=u65r9u&type=m3u
