@@ -1,0 +1,44 @@
+#EXTM3U
+#PLAYLIST: WILL SPORTS CLEAN FINAL
+
+########################
+# ESPORTES | SD
+########################
+#EXTINF:-1 tvg-name="ESPN" group-title="Esportes | SD",ESPN
+http://listaccess.me:8880/live/Caroline01/Caroline01/2303.ts
+
+#EXTINF:-1 tvg-name="SporTV" group-title="Esportes | SD",SporTV
+http://listaccess.me:8880/live/Caroline01/Caroline01/2188.ts
+
+
+########################
+# ESPORTES | HD
+########################
+#EXTINF:-1 tvg-name="ESPN HD" group-title="Esportes | HD",ESPN HD
+http://listaccess.me:8880/live/Caroline01/Caroline01/2302.ts
+
+#EXTINF:-1 tvg-name="ESPN Brasil HD" group-title="Esportes | HD",ESPN Brasil HD
+http://listaccess.me:8880/live/Caroline01/Caroline01/2300.ts
+
+#EXTINF:-1 tvg-name="SporTV 2 HD" group-title="Esportes | HD",SporTV 2 HD
+http://listaccess.me:8880/live/Caroline01/Caroline01/2187.ts
+
+
+########################
+# ESPORTES | FHD
+########################
+#EXTINF:-1 tvg-name="ESPN FHD" group-title="Esportes | FHD",ESPN FHD
+http://listaccess.me:8880/live/Caroline01/Caroline01/7160.ts
+
+#EXTINF:-1 tvg-name="Sportv FHD" group-title="Esportes | FHD",Sportv FHD
+http://listaccess.me:8880/live/Caroline01/Caroline01/7178.ts
+
+
+########################
+# FILMES E SÉRIES | HD
+########################
+#EXTINF:-1 tvg-name="Space HD" group-title="Filmes e Séries | HD",Space HD
+http://listaccess.me:8880/live/Caroline01/Caroline01/2192.ts
+
+#EXTINF:-1 tvg-name="Fox Premium 1 HD" group-title="Filmes e Séries | HD",Fox Premium 1 HD
+http://listaccess.me:8880/live/Caroline01/Caroline01/2288.ts
